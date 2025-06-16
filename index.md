@@ -1,6 +1,6 @@
 <nav>
-  <a href="/data-diaries/">Home</a>
-  <a href="/data-diaries/about/">About</a>
-  <a href="/data-diaries/projects/">Projects</a>
-  <a href="/data-diaries/contact/">Contact</a>
+  <a href="{{site.baseurl}}">Home</a>
+  <a href="{{site.baseurl}}/about/">About</a>
+  <a href="{{site.baseurl}}/projects/">Projects</a>
+  <a href="{{site.baseurl}}/contact/">Contact</a>
 </nav>
