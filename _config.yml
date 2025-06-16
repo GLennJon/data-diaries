@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-title: Name
+title: George Lennard-Jones
 logo: /assets/profile.png
-description: test
+description: Aspiring Data Professional
 show_downloads: false
-google_analytics: # your ID
 baseurl: "/data-diaries/"
 
 markdown: kramdown
