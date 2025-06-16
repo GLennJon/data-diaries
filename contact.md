@@ -13,7 +13,7 @@ permalink: /contact/
 
 # Contact
 
-- Email: [you@example.com](mailto:you@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+- Email: [george.lennardjones@gmail.com](mailto:george.lennardjones@gmail.com)
+- GitHub: [GLennJon](https://github.com/GLennJon)
+- LinkedIn: [George Lennard-Jones](https://linkedin.com/in/george-lennard-jones/)
 
