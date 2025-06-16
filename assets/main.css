@@ -1,14 +1,11 @@
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  line-height: 1.6;
   max-width: 900px;
   margin: auto;
-  padding: 2rem;
-  background-color: #fdfdfd;
+  padding: 1rem;
   color: #333;
-}
-
-a {
-  color: #0066cc;
+  background-color: #fdfdfd;
 }
 
 nav {
@@ -18,18 +15,14 @@ nav {
 nav a {
   margin-right: 1rem;
   font-weight: bold;
-}
-
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
+  text-decoration: none;
+  color: #0066cc;
 }
 
 .project-card {
-  border: 1px solid #ccc;
+  background: white;
   padding: 1rem;
   border-radius: 10px;
-  background: white;
-  box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+  margin-bottom: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
