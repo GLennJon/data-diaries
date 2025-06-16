@@ -1,6 +1,5 @@
 title: George Lennard-Jones
 show_downloads: True
-theme: jekyll-theme-minimal
 
 nav:
   - title: "Home"
@@ -11,3 +10,5 @@ nav:
     url: /projects/
   - title: "Contact"
     url: /contact/
+
+theme: jekyll-theme-minimal
