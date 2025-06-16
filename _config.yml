@@ -4,6 +4,7 @@ logo: /assets/profile.png
 description: test
 show_downloads: false
 google_analytics: # your ID
+baseurl: "/data-diaries/"
 
 markdown: kramdown
 plugins:
