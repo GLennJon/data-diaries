@@ -1,1 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #fdfdfd;
+  color: #333;
+}
+
+a {
+  color: #0066cc;
+}
+
+nav {
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  font-weight: bold;
+}
 
