@@ -3,7 +3,7 @@ title: George Lennard-Jones
 logo: /assets/profile.png
 description: Aspiring Data Professional
 show_downloads: false
-baseurl: "/data-diaries"
+baseurl: "/data-diaries/"
 
 markdown: kramdown
 plugins:
