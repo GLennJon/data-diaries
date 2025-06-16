@@ -1,8 +1,19 @@
-title: George Lennard-Jones
-show_downloads: True
 theme: jekyll-theme-minimal
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
+title: George Lennard-Jones
+logo: /assets/profile.png
+description: test
+show_downloads: false
+google_analytics: # your ID
+
+# Add this:
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Custom stylesheet
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "assets/main.css"
