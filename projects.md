@@ -14,9 +14,11 @@ permalink: /projects/
   </div>
 
   <div class="project-card">
-    <h3>Data Dashboard</h3>
-    <p>Interactive dashboard built with D3 and Flask.</p>
-    <a href="https://example.com">Live Demo</a>
+  <img src="/assets/thumb1.jpg" alt="Screenshot" style="width:100%; border-radius: 10px;">
+  <h3>My Cool Project</h3>
+  <p>Short description of what it does and why it's cool.</p>
+  <a href="https://github.com/yourusername/project">GitHub Repo</a> |
+  <a href="https://live-site.com">Live Demo</a>
   </div>
 </div>
 
