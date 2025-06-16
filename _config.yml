@@ -5,12 +5,10 @@ description: test
 show_downloads: false
 google_analytics: # your ID
 
-# Add this:
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
-# Custom stylesheet
 defaults:
   -
     scope:
