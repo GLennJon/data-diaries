@@ -23,7 +23,7 @@ permalink: /projects/
   <div class="project-card">
   <img src="/assets/thumb1.jpg" alt="Screenshot" style="width:100%; border-radius: 10px;">
   <h3>My Cool Project</h3>
-  <p>Short description of what it does and why it's cool.</p>
+  <p>Test description of a project.</p>
   <a href="https://github.com/yourusername/project">GitHub Repo</a> |
   <a href="https://live-site.com">Live Demo</a>
   </div>
